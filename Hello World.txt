@@ -1,5 +1,4 @@
-Hello World
-Hi team
-Hello
-Hello my dear friend
-Glad to see you
+print("Hello World");
+print("Hi team");
+print("Hello");
+print("Glad to see you");
